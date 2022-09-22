@@ -1,10 +1,11 @@
 body {
-  background-color: #f5efe6;
+  background-color: #a5c9ca;
+  color: #100f0f;
 }
 
 hr {
-  background-color: #f5efe6;
-  color: #182747;
+  background-color: #a5c9ca;
+  color: #100f0f;
   border-style: none;
   height: 2px;
   width: 10%;
@@ -14,18 +15,18 @@ hr {
 
 h1 {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  color: #182747;
+  color: #100f0f;
   text-align: center;
 }
 
 p {
-  color: #182747;
+  color: #100f0f;
   text-align: center;
 }
 
 h3 {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  color: #182747;
+  color: #100f0f;
   text-align: center;
 }
 
