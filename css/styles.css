@@ -1,11 +1,21 @@
+@font-face {
+  font-family: "imza";
+  src: url("font/imza.otf");
+}
+
+@font-face {
+  font-family: "uzun";
+  src: url("font/Tungsten-Bold.ttf");
+}
+
 body {
-  background-color: #ffa500;
-  color: #100f0f;
+  background-color: #0a1931;
+  color: #feb139;
 }
 
 hr {
-  background-color: #ffa500;
-  color: #100f0f;
+  background-color: #0a1931;
+  color: #feb139;
   border-style: none;
   height: 2px;
   width: 10%;
@@ -14,23 +24,33 @@ hr {
 }
 
 h1 {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  color: #100f0f;
+  font-family: "uzun";
+
+  color: #feb139;
   text-align: center;
 }
 
 p {
-  color: #100f0f;
+  color: #feb139;
   text-align: center;
 }
 
 h3 {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  color: #100f0f;
+  color: #feb139;
   text-align: center;
 }
 
 .center {
   margin-left: auto;
   margin-right: auto;
+}
+
+.contactMe {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.imza {
+  font-family: imza;
+  font-size: larger;
 }
